@@ -1,2 +1,2 @@
 # latihan-git
-ini adalah sebuah text
+Ini merupakan file latihan html dasar yang saya buat
